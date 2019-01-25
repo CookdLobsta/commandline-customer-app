@@ -7,10 +7,8 @@ https://github.com/CookdLobsta/commandline-customer-app
 ## Screen Shots
 
 ![Screen shot](assets/images/Screenshot_1.png)
-Index Page
 
 ![Screen shot 2](assets/images/Screenshot_2.png)
-Survey
 
 ## Technologies used
 - Node.js
